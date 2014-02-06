@@ -1,6 +1,6 @@
 # Windows Azure SDK for .NET
 
-The Windows Azure SDK for .NET allows you to build Windows Azure applications 
+The Microsoft Windows Azure SDK for .NET allows you to build Windows Azure applications 
 that take advantage of scalable cloud computing resources.
 
 This repository contains the open source subset of the .NET SDK. For documentation of the 
